@@ -1,4 +1,0 @@
-Esto es el paso 6 de la taller 1 de git
- modificada
- modificad2s
- modificados
