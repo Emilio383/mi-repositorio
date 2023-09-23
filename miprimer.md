@@ -21,7 +21,7 @@ Diferentes tipos de texto **negrita** *cursiva* y `codigo`
 ## Enlace a fichero 
 [title] archivo2-tarea3.md
 ## Enlace a imagen
-[title] (https://blog.lastsword.com/wp-content/uploads/2016/12/Portada-Kragg-Grim-Runelord-Se%C3%B1or-Runas-Enanos-Dwarf-Oldschool-Warhammer-Fantasy-Gorko-03.jpg)
+![enano] (https://blog.lastsword.com/wp-content/uploads/2016/12/Portada-Kragg-Grim-Runelord-Se%C3%B1or-Runas-Enanos-Dwarf-Oldschool-Warhammer-Fantasy-Gorko-03.jpg)
 
 # Tabla
 
