@@ -30,3 +30,15 @@ Diferentes tipos de texto **negrita** *cursiva* y `codigo`
 | 9:00 | cafes | cholek |
 |10:00 | zumos | comida |
 |13:00 | peces | cenas  |
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title> Pagina test en ejercicios Markdown </title>
+</head>
+<body>
+<h1> Tarea 3 </h1>
+<p> En esta tarea practicamos el lenguaje markdown </p>
+</body>
+</html>
