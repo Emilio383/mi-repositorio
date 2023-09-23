@@ -4,13 +4,6 @@
 
 Diferentes tipos de texto **negrita** *cursiva* y `codigo`
 
-```html
-<html>
- <head>Test codigo en markdown</head>
- <body>
-  <p>Esto es el ejemplo del codigo que nos piden</p>
- </boby>
-</html>
 
 # Listas
 ## Lista ordenada
